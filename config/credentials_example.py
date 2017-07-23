@@ -1,0 +1,1 @@
+PASS = b'PASSWORD'
